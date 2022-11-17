@@ -23,10 +23,7 @@ Resources:
 
 Output:
 
-![Screenshot_20220920_222025](https://user-images.githubusercontent.com/110646988/191332089-52660fa1-222b-4760-8618-0530931a7ce5.png)
+![Screenshot_20220928-193737_MADPractical5_21012022019](https://user-images.githubusercontent.com/111824852/202510444-84b1a5b6-9a2d-4b93-9796-e1c73aefcfb3.jpg)
 
 
-![Screenshot_20220920_222059](https://user-images.githubusercontent.com/110646988/191332109-6b40b949-1fc2-4ed8-87b7-20c120791387.png)
-
-
-![Screenshot_20220920_222106](https://user-images.githubusercontent.com/110646988/191332124-66ada7fe-2be9-462c-bdd9-e2b2193b8de8.png)
+![Screenshot_20220928-193742_MADPractical5_21012022019](https://user-images.githubusercontent.com/111824852/202510494-4461211b-7000-4c91-9a1b-700f1cc03d63.jpg)
